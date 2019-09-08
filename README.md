@@ -45,4 +45,7 @@ public class MainActivity extends ReactActivity {
 +  }
 }
 
+#Screenshot
+![demo screenshot](https://raw.githubusercontent.com/rameshvishnoi90904/react-native-tab-view-example/master/demo/demo.png)
+
 
